@@ -4,9 +4,10 @@ Ph.D. in Molecular Medicine and Mechanisms of Disease (University of Washington)
 
 ## What I'm working on
 
-An eight-week, self-directed ML build-out on free cloud GPUs (Colab and Kaggle), with each project in its own repo: coming soon
+An eight-week, self-directed ML build-out on free cloud GPUs (Colab and Kaggle)
+<!--, with each project in its own repo:
 
-<!-
+
 - **[nn-foundations](https://github.com/michaelkiflezghi-cloud/nn-foundations)**: neural nets and training loops built from scratch in PyTorch
 - **[mini-gpt](https://github.com/michaelkiflezghi-cloud/mini-gpt)**: a small character-level GPT trained from scratch
 - **[llm-lora-finetune](https://github.com/michaelkiflezghi-cloud/llm-lora-finetune)**: LoRA/QLoRA fine-tuning of a small open language model
