@@ -22,4 +22,4 @@ An eight-week, self-directed ML build-out on free cloud GPUs (Colab and Kaggle)
 
 ## Get in touch
 
-https://www.linkedin.com/in/mkiflezghi/ · michael.kiflezghi@gmail.com
+**[LinkedIn](https://www.linkedin.com/in/mkiflezghi/)** · michael.kiflezghi@gmail.com
