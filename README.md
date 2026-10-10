@@ -1,6 +1,6 @@
 # Hi, I'm Michael Kiflezghi
 
-Ph.D. in Molecular Medicine and Mechanisms of Disease (University of Washington) with B.S. degrees in Bioinformatics and Information systems (VCU). My research background is in mTOR signaling and aging biology, with papers in journals including Science, PNAS and eLife. I'm now building hands-on machine learning skills and moving toward AI safety and biosecurity research.
+Ph.D. in Molecular Medicine and Mechanisms of Disease (University of Washington) with B.S. degrees in Bioinformatics and Information systems (VCU). My research background is in mTOR signaling and aging biology. I'm now building hands-on machine learning skills and moving toward AI safety and biosecurity research.
 
 ## What I'm working on
 
